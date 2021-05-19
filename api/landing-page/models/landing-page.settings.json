@@ -56,6 +56,30 @@
       "repeatable": false,
       "component": "page.section-agenda",
       "required": true
+    },
+    "pricingBox": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.pricing-box",
+      "required": true
+    },
+    "sectionAboutUs": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-about-us",
+      "required": true
+    },
+    "sectionReviews": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-reviews",
+      "required": true
+    },
+    "sectioFaq": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.sectio-faq",
+      "required": true
     }
   }
 }
